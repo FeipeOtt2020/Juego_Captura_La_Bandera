@@ -1260,3 +1260,46 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.17-00.11.32:749][456]AssetCheck: New page: Asset Save: nuevo_nivel
 [2023.08.17-00.11.32:749][456]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/nuevo_nivel.nuevo_nivel
 [2023.08.17-00.11.38:027][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.08.17-00.14.34:306][610]LogSlate: Window 'New Level' being destroyed
+[2023.08.17-00.14.34:350][610]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.08.17-00.14.34:350][610]LightingResults: New page: Lighting Build
+[2023.08.17-00.14.34:350][610]LoadErrors: New page: Loading map: Template_Default.umap
+[2023.08.17-00.14.34:367][610]LogWorld: UWorld::CleanupWorld for nuevo_nivel, bSessionEnded=true, bCleanupResources=true
+[2023.08.17-00.14.34:367][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.17-00.14.34:367][610]MapCheck: New page: Map Check
+[2023.08.17-00.14.34:367][610]LightingResults: New page: Lighting Build
+[2023.08.17-00.14.34:374][610]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.17-00.14.34:375][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.08.17-00.14.34:380][610]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2023.08.17-00.14.34:380][610]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.17-00.14.34:380][610]LogAIModule: Creating AISystem for world Untitled_2
+[2023.08.17-00.14.34:389][610]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.08.17-00.14.34:397][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.08.17-00.14.34:398][610]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.08.17-00.14.34:398][610]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,092ms to complete.
+[2023.08.17-00.14.34:398][610]LogFileHelpers: Loading map 'Template_Default' took 0.049
+[2023.08.17-00.14.45:590][698]LogSlate: Window 'Save Level As' being destroyed
+[2023.08.17-00.14.45:677][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.08.17-00.14.45:682][698]LogSavePackage: Moving output files for package: /Game/ThirdPerson/nuevo_nivel_2
+[2023.08.17-00.14.45:682][698]LogSavePackage: Moving '../../../../../Proyectos Unreal_Github/Juego_Captura_La_Bandera/CB_Github_Unreal5/Saved/nuevo_nivel_2FC6DA0BE483173E662EBBC973EAF8C9B.tmp' to '../../../../../Proyectos Unreal_Github/Juego_Captura_La_Bandera/CB_Github_Unreal5/Content/ThirdPerson/nuevo_nivel_2.umap'
+[2023.08.17-00.14.45:702][698]LogFileHelpers: Saving map 'nuevo_nivel_2' took 0.100
+[2023.08.17-00.14.45:702][698]Cmd: MAP LOAD FILE="../../../../../Proyectos Unreal_Github/Juego_Captura_La_Bandera/CB_Github_Unreal5/Content/ThirdPerson/nuevo_nivel_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.08.17-00.14.45:702][698]LightingResults: New page: Lighting Build
+[2023.08.17-00.14.45:702][698]LoadErrors: New page: Loading map: nuevo_nivel_2.umap
+[2023.08.17-00.14.45:704][698]LogWorld: UWorld::CleanupWorld for nuevo_nivel_2, bSessionEnded=true, bCleanupResources=true
+[2023.08.17-00.14.45:704][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.17-00.14.45:704][698]MapCheck: New page: Map Check
+[2023.08.17-00.14.45:704][698]LightingResults: New page: Lighting Build
+[2023.08.17-00.14.45:711][698]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.17-00.14.45:712][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.08.17-00.14.45:715][698]LogAudio: Display: Audio Device (ID: 1) registered with world 'nuevo_nivel_2'.
+[2023.08.17-00.14.45:715][698]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.17-00.14.45:715][698]LogAIModule: Creating AISystem for world nuevo_nivel_2
+[2023.08.17-00.14.45:725][698]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.08.17-00.14.45:734][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.08.17-00.14.45:738][698]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.08.17-00.14.45:738][698]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,16ms to complete.
+[2023.08.17-00.14.45:738][698]LogFileHelpers: Loading map 'nuevo_nivel_2' took 0.036
+[2023.08.17-00.14.45:741][698]AssetCheck: New page: Asset Save: nuevo_nivel_2
+[2023.08.17-00.14.45:741][698]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/nuevo_nivel_2.nuevo_nivel_2
+[2023.08.17-00.14.50:330][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
