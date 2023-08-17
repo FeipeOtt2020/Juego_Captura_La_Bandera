@@ -11,7 +11,9 @@
 				"D:/Proyectos Unreal_Github/Juego_Captura_La_Bandera/Captura_La_Bandera/Content/UI/Menu_Principal/Fondo.uasset",
 				"D:/Proyectos Unreal_Github/Juego_Captura_La_Bandera/Captura_La_Bandera/Content/UI/Menu_Opciones/BP_Menu_Opciones.uasset",
 				"D:/Proyectos Unreal_Github/Juego_Captura_La_Bandera/Captura_La_Bandera/Content/UI/Menu_Pausa/BP_Menu_Pausa.uasset",
-				"D:/Proyectos Unreal_Github/Juego_Captura_La_Bandera/Captura_La_Bandera/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"D:/Proyectos Unreal_Github/Juego_Captura_La_Bandera/Captura_La_Bandera/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Proyectos Unreal_Github/Juego_Captura_La_Bandera/Captura_La_Bandera/Content/ThirdPerson/Input/Actions/IA_Pause.uasset",
+				"D:/Proyectos Unreal_Github/Juego_Captura_La_Bandera/Captura_La_Bandera/Content/ThirdPerson/Input/IMC_Default.uasset"
 			]
 		}
 	]
