@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Proyectos Unreal_Github/Juego_Captura_La_Bandera/Captura_La_Bandera/Content/UI/Menu_Principal/Menu_Principal.uasset",
+				"D:/Proyectos Unreal_Github/Juego_Captura_La_Bandera/Captura_La_Bandera/Content/UI/Menu_Principal/Mapa_Menu_Principal.umap",
+				"D:/Proyectos Unreal_Github/Juego_Captura_La_Bandera/Captura_La_Bandera/Content/UI/Menu_Principal/BP_GameMode_Menu.uasset",
+				"D:/Proyectos Unreal_Github/Juego_Captura_La_Bandera/Captura_La_Bandera/Content/UI/Menu_Principal/Fondo.uasset",
+				"D:/Proyectos Unreal_Github/Juego_Captura_La_Bandera/Captura_La_Bandera/Content/UI/Menu_Opciones/BP_Menu_Opciones.uasset",
+				"D:/Proyectos Unreal_Github/Juego_Captura_La_Bandera/Captura_La_Bandera/Content/UI/Menu_Pausa/BP_Menu_Pausa.uasset",
+				"D:/Proyectos Unreal_Github/Juego_Captura_La_Bandera/Captura_La_Bandera/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
